@@ -1,44 +1,46 @@
-👋 Hi, I'm Dipanshu Chaubey
- Full-Stack AI Developer & Computer Vision Enthusiast
+# Hi, I'm Dipanshu Chaubey 👋
 
-I specialize in building practical, end-to-end Deep Learning applications that solve real-world problems.
+**AI/ML & Software Development Learner | Python • C • SQL • Data Analytics**
 
-🚀 Featured Projects
+I’m building my foundations in programming, machine learning, and data-driven applications by working on practical projects and documenting what I learn. My background also includes graphic design and student leadership, which help me communicate ideas and present technical work clearly.
 
-🏥 [Med-Scan AI](https://github.com/Dipanshu-Chaubey3/med-scan-ai)
-Medical Image Diagnostic Tool
-- Tech: EfficientNet-B0, PyTorch, FastAPI
-- Impact: Uses high-fidelity texture analysis to scan skin lesions and assess dermatological risks.
+## 🔧 Skills & Interests
 
-♻️ [Trash-Sorter AI](https://github.com/Dipanshu-Chaubey3/trash-sorter-ai)
-Automated Waste Management System
-- Tech: ResNet-34, Computer Vision, FastAPI
-- Impact: Improves recycling accuracy by instantly classifying household waste into correct disposal bins.
+- **Programming:** Python, C, Java, R
+- **Data & Databases:** SQL, MySQL, data analysis, statistics
+- **AI/ML:** machine learning fundamentals, computer vision, image recognition
+- **Web:** HTML, CSS, JavaScript
+- **Other:** Git/GitHub, graphic design, communication, event coordination
 
-📏 [Sizer-AI](https://github.com/Dipanshu-Chaubey3/sizer-ai)
-Professional Image Utility
-- Tech: Pillow (PIL), Lanczos Resampling, Python
-- Impact: A high-performance tool for custom dimension resizing with optimized visual fidelity.
+> I’m continuing to develop these skills; the list reflects areas I study or practise, not expert-level proficiency in every tool.
 
-🔍 [Image-Recognition-Pro](https://github.com/Dipanshu-Chaubey3/image-recognition-ai)
-Real-time Object Classifier
-- Tech: MobileNetV3, Deep Learning, FastAPI
-- Impact: Lightweight and fast object recognition engine for general web use cases.
+## 🚀 Projects
 
-🛠️ My Tech Stack
+### C Programming
+- **[Basic Calculator in C](https://github.com/Dipanshu-Chaubey3/Basic_Calculator_C)** — a console calculator for basic arithmetic operations.
+- **[Matrix Operations](https://github.com/Dipanshu-Chaubey3/Matrix_operations)** — a C project focused on matrix operations.
+- **[CodeAlpha Tasks](https://github.com/Dipanshu-Chaubey3/codealpha_tasks)** — programming tasks from my C programming internship.
 
-![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![WAD](https://img.shields.io/badge/WAD-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### AI, Image & Web Projects
+- **[Trash Sorter AI](https://github.com/Dipanshu-Chaubey3/trash-sorter-ai)** — an AI/computer-vision project exploring waste classification.
+- **[Image Recognition AI](https://github.com/Dipanshu-Chaubey3/image-recognition-ai)** — an image-recognition project.
+- **[Sizer AI](https://github.com/Dipanshu-Chaubey3/sizer-ai)** — an image sizing/resizing utility.
+- **[Billing Web](https://github.com/Dipanshu-Chaubey3/billing-web)** — a web-based billing project.
 
-📊 GitHub Stats
-![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanshu-Chaubey3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Chaubey3&layout=compact&theme=radical)
+Project status and features may vary by repository; please check each README for current implementation details.
 
+## 📌 What I’m Working Toward
 
-📫 Connect with me:
-- Email: dchaubey891@gmail.com
-- Location: East Delhi, India
+- Strengthening Python, SQL, and programming fundamentals
+- Building and documenting practical AI/ML and data analytics projects
+- Improving code quality, testing, and project documentation
+- Finding opportunities to learn from real software and data projects
+
+## 🤝 Connect
+
+- **GitHub:** [Dipanshu-Chaubey3](https://github.com/Dipanshu-Chaubey3)
+- **LinkedIn:** [chaubey-ji](https://www.linkedin.com/in/chaubey-ji/)
+
+---
+
+*Learn consistently. Build useful things. Share what you learn.*
